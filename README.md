@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me
 
-<!--
-**Mchill777587/Mchill777587** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have graduated with a Bachelors Degree in Information Technology from UVU
+I have always been interested in video games, and in modding.
+I am interested in learning more about modding, and have looked into it a fair amount. 
+I think Morrowind might be a good place to start as I have been playing it a lot and I have used many mods for it.
+I hope to be able to learn more and potentially work on making games myself.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on contract projects.
+- 🌱 I’m currently learning more about C#
+- 👯 I’m looking to collaborate on Game mods
+- 🤔 I’m looking for help with advice on how to advance my career.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
